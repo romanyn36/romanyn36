@@ -151,7 +151,8 @@ love chess and coding.
 
 
  ### :chart: Analytics
-  
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=romanyn36&show_icons=true&locale=en&layout=compact" alt="romanyn36" /></p>
+
 <p align="left">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=romanyn36" />
 </p>  
