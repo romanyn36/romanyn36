@@ -227,7 +227,7 @@ Made by <a href="https://github.com/romanyn36" target="_blank">Romani</a>
 
 &#xa0;
 
-![Snake Animation](https://github.com/romanyn36/romanyn36/blob/master/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/romanyn36/romanyn36/blob/main/github-contribution-grid-snake.svg)
 
 
 <p align="left">
