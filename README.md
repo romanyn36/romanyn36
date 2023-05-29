@@ -219,8 +219,7 @@ love chess and coding.
 
 ### :memo: License
 
-This under license from MIT. For more details. [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/sourcerer-io/hall-of-fame/blob/master/LICENSE.md)
-
+This under license from MIT. For more details. [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)]()
 
 Made by <a href="https://github.com/romanyn36" target="_blank">Romani</a>
 
