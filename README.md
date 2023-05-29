@@ -63,13 +63,13 @@
 
 
 ## :dart: About Me 
-
+<p>
 Hi!! My name Is Romani
 I’m a student in benha, faculty of computers and artificial intelligence, studying Artificial intelligence, computer science,
 And android apps developer graduated from “Android Kotlin Developer Nanodegree” at Udacity 
 i'm fast learner love programming and new technologies 
 love chess and coding.
-
+</p>
 
 
 ### :white_check_mark: My GitHub History 
@@ -168,6 +168,8 @@ love chess and coding.
 
 
 ### :email: Contact ##
+ <a href="https://github.com/romanyn36/Cv/blob/main/Romani-Nasrat-Resume-SW.pdf" target="_blank">My Resume </a>
+
 <p align="center">
  <a href="https://www.facebook.com/romanyn3/" target="_blank">
   <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
