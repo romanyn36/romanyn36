@@ -75,7 +75,7 @@ love chess and coding.
 ### :white_check_mark: My GitHub History 
 
 <p align="center">
-	<img src=https://github-readme-stats.vercel.app/api?username=romanyn36&show_icons=true&include_all_commits=true&count_private=true&theme=buefy alt=romanyn36 />
+	<img src=https://github-readme-stats.vercel.app/api?username=romanyn36&include_all_commits=true&count_private=true alt=romanyn36 />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=romanyn36&show_icons=true&locale=en&layout=compact&theme=buefy" alt="romanyn36" />
 </p>
