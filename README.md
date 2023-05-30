@@ -75,9 +75,11 @@ love chess and coding.
 ### :white_check_mark: My GitHub History 
 
 <p align="center">
-	<img src=https://github-readme-stats.vercel.app/api?username=romanyn36&show_icons=true&include_all_commits=true&count_private=true alt=Elangovan />
+	<img src=https://github-readme-stats.vercel.app/api?username=romanyn36&show_icons=true&include_all_commits=true&count_private=true&theme=buefy alt=Elangovan />
+  
 </p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=romanyn36&show_icons=true&locale=en&layout=compact&theme=buefy" alt="romanyn36" />
+</p>
 ### :sparkles: Skills 
 
 :heavy_check_mark: kotlin,python, C++,Java;\
@@ -147,16 +149,17 @@ love chess and coding.
 
 
 
-
-
-
+<!-- <p align="left">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=romanyn36&theme=buefy" />
+</p>   -->
  ### :chart: Analytics
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=romanyn36&show_icons=true&locale=en&layout=compact" alt="romanyn36" /></p>
-
-<p align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=romanyn36" />
-</p>  
+ <p align="center">
+	<img src=https://github-readme-stats.vercel.app/api?username=romanyn36&show_icons=true&include_all_commits=true&count_private=true&theme=buefy alt=Elangovan />
+</p>
  
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romanyn36&theme=algolia)
+
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=romanyn36&theme=algolia&count_private=true)
 <!-- ## 📊 Leetcode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/romanyn36?theme=light&font=Marvel)
  -->
