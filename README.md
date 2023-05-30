@@ -52,8 +52,8 @@
 
 <p align="center">
   <a href="#dart-about-me">About</a> &#xa0; | &#xa0; 
-  <a href="#white_check_mark-my-github-history">GitHub History</a> &#xa0; | &#xa0;
-  <a href="#sparkles-skills">Skills</a> &#xa0; | &#xa0;
+  <a href="#sparkles-my-github-highlights">GitHub Highlights</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-skills">Skills</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies-and-languages">Technologies & Languages</a> &#xa0; | &#xa0;
   <a href="#rocket-tools-and-ides">Tools & IDEs</a> &#xa0; | &#xa0;<a href="#chart-analytics">Analytics</a> &#xa0; | &#xa0;<a href="#computer-workspace">Workspace</a> &#xa0; | &#xa0;<a href="#email-contact">Contact</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
@@ -72,30 +72,19 @@ love chess and coding.
 </p>
 
 
-### :white_check_mark: My GitHub History 
+### :sparkles: My GitHub Highlights
 
 <p align="center">
-	<img src=https://github-readme-stats.vercel.app/api?username=romanyn36&include_all_commits=true&count_private=true alt=romanyn36 />
+	<img src=http://github-profile-summary-cards.vercel.app/api/cards/stats?username=romanyn36&theme=buefy&count_private=true alt=romanyn36 />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=romanyn36&show_icons=true&locale=en&layout=compact&theme=buefy" alt="romanyn36" />
 </p>
- ### :chart: Analytics
- <!-- theme=algolia 
- theme=buefy
- -->
- <p align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=romanyn36&theme=buefy" />
-</p>  
-
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romanyn36&theme=buefy)
 
 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=romanyn36&theme=buefy&count_private=true)
-
-### :sparkles: Skills 
+### :white_check_mark: Skills 
 
 :heavy_check_mark: kotlin,python, C++,Java;\
-:heavy_check_mark: oop ,openCv, APIs,android development;\
+:heavy_check_mark: oop ,SOLID,openCv, APIs,android ,ML,DL,development;\
 :heavy_check_mark:  leadership, problem solving;
 
 
@@ -160,6 +149,21 @@ love chess and coding.
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white) ![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=jetbrains) ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)  &nbsp;
 
 
+
+
+ ### :chart: Analytics
+ <!-- theme=algolia 
+ theme=buefy
+ -->
+![](https://github-readme-stats.vercel.app/api?username=romanyn36&include_all_commits=true&count_private=true)
+
+
+ <p align="left">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=romanyn36&theme=buefy" />
+</p>  
+ 
+ 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romanyn36&theme=buefy)
 
 
 
