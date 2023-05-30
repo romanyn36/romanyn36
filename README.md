@@ -79,7 +79,18 @@ love chess and coding.
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=romanyn36&show_icons=true&locale=en&layout=compact&theme=buefy" alt="romanyn36" />
 </p>
+ ### :chart: Analytics
+ <!-- theme=algolia 
+ theme=buefy
+ -->
+ <p align="left">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=romanyn36&theme=buefy" />
+</p>  
 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romanyn36&theme=buefy)
+
+
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=romanyn36&theme=buefy&count_private=true)
 
 ### :sparkles: Skills 
 
@@ -151,17 +162,7 @@ love chess and coding.
 
 
 
- ### :chart: Analytics
- <!-- theme=algolia 
- theme=buefy
- -->
- <p align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=romanyn36&theme=buefy" />
-</p>  
 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romanyn36&theme=buefy)
-
- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=romanyn36&theme=buefy&count_private=true)
 <!-- ## 📊 Leetcode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/romanyn36?theme=light&font=Marvel)
  -->
