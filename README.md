@@ -144,8 +144,8 @@ love chess and coding.
 
 &nbsp;
 
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown) ![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)  &nbsp;
-![Spyder](https://img.shields.io/badge/-Spyder-FF0000?style=flat&logo=spyder-ide&logoColor=white) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white) ![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=jetbrains) 
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown) ![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)<br />
+![Spyder](https://img.shields.io/badge/-Spyder-FF0000?style=flat&logo=spyder-ide&logoColor=white) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white) ![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=jetbrains) <br />
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman) 
 
 <!-- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) -->
