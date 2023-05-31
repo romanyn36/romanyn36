@@ -155,7 +155,7 @@ love chess and coding.
  <!-- theme=algolia 
  theme=buefy
  -->
-![](https://github-readme-stats.vercel.app/api?username=romanyn36&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=romanyn36&include_all_commits=true&hide=contribs&count_private=true)
 
 
  <p align="left">
