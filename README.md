@@ -83,9 +83,9 @@ love chess and coding.
 
 ### :white_check_mark: Skills 
 
-:heavy_check_mark: kotlin,python, C++,Java;\
-:heavy_check_mark: oop ,SOLID,openCv, APIs,android ,ML,DL,development;\
-:heavy_check_mark:  leadership, problem solving;
+:heavy_check_mark: kotlin,python, C++,Java.\
+:heavy_check_mark: oop ,SOLID,openCv, APIs,android ,ML,DL,development.\
+:heavy_check_mark:  leadership, problem solving.
 
 
 
