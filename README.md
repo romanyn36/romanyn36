@@ -191,7 +191,7 @@ love chess and coding.
 
 <p align="center">
  <a href="https://www.facebook.com/romanyn3/" target="_blank">
-  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
+  <img src="https://img.shields.io/badge/-Romani-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
 
 <!-- <a href="https://twitter.com/romanyn36" target="_blank">
