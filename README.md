@@ -171,7 +171,7 @@ love chess and coding.
  
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romanyn36&theme=buefy)
  
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romanyn36&theme=buefy)
+
 
 
 
