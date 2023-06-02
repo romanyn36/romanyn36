@@ -141,13 +141,10 @@ love chess and coding.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
 
-
-
-<!-- &nbsp; -->
-
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown) ![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)<br />
-![Spyder](https://img.shields.io/badge/-Spyder-FF0000?style=flat&logo=spyder-ide&logoColor=white) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white) ![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=jetbrains) <br />
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman) 
+![Figma][figmlink] ![Shell][selllink] ![Markdown][markdownlink] ![NetBeans][netbeanslink]<br />
+![Spyder][spyderlink] ![Android Studio][androidstudio] ![IntelliJ][def] 
+<br />
+![Postman][postmanlink] 
 
 
 <!-- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) -->
@@ -162,8 +159,9 @@ love chess and coding.
  <!-- theme=algolia 
  theme=buefy
  -->
-![](https://github-readme-stats.vercel.app/api?username=romanyn36&include_all_commits=true&hide=contribs&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=romanyn36&include_all_commits=true&hide=contribs)
 
+<!-- ![](https://github-readme-stats.vercel.app/api?username=romanyn36&include_all_commits=true&hide=contribs&count_private=true) -->
 
  <p align="left">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=romanyn36&theme=buefy" />
@@ -260,3 +258,13 @@ Made by <a href="https://github.com/romanyn36" target="_blank">Romani</a>
 </p>
 
 <a href="#top">Back to top</a>
+
+
+[netbeanslink]: https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white
+[def]: https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=jetbrains
+[figmlink]: https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white
+[selllink]: https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white
+[markdownlink]: https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown
+[spyderlink]: https://img.shields.io/badge/-Spyder-FF0000?style=flat&logo=spyder-ide&logoColor=white
+[postmanlink]: https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman
+[androidstudio]: https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white
