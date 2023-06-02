@@ -75,7 +75,7 @@ love chess and coding.
 ### :sparkles: My GitHub Highlights
 
 <p align="center">
-	<img src=http://github-profile-summary-cards.vercel.app/api/cards/stats?username=romanyn36&theme=buefy&count_private=true alt=romanyn36 />
+	<img src=http://github-profile-summary-cards.vercel.app/api/cards/stats?username=romanyn36&theme=buefy alt=romanyn36 />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=romanyn36&show_icons=true&locale=en&layout=compact&theme=buefy" alt="romanyn36" />
 </p>
@@ -169,6 +169,7 @@ love chess and coding.
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=romanyn36&theme=buefy" />
 </p>  
  
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romanyn36&theme=buefy)
  
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romanyn36&theme=buefy)
 
