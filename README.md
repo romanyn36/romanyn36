@@ -149,6 +149,7 @@ love chess and coding.
 ![Spyder](https://img.shields.io/badge/-Spyder-FF0000?style=flat&logo=spyder-ide&logoColor=white) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white) ![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=jetbrains) <br />
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman) 
 
+
 <!-- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) -->
  <!-- ![Visual Studio 2022](https://img.shields.io/badge/-Visual%20Studio%202022-5C2D91?style=flat&logo=visual-studio&logoColor=white) -->
 
@@ -213,6 +214,10 @@ love chess and coding.
   <img src="https://img.shields.io/badge/-@romanyn36-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
+<a href="https://stackoverflow.com/users/17348975/romani" target="_blank">
+  <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+</a>
+
 </p>
 
 <!-- social links -->
@@ -232,6 +237,8 @@ love chess and coding.
 <a href="https://twitter.com/romanyn36" target="_blank">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 </a>
+
+
 </p>
 
 
