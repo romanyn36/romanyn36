@@ -235,14 +235,6 @@ love chess and coding.
 
 </p>
 
-
-
-### :memo: License
-
-This under license from MIT. For more details. [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)]()
-
-Made by <a href="https://github.com/romanyn36" target="_blank">Romani</a>
-
 &#xa0;
 
 ![Snake Animation](https://github.com/romanyn36/romanyn36/blob/main/github-contribution-grid-snake.svg)
