@@ -55,7 +55,7 @@
   <a href="#sparkles-my-github-highlights">GitHub Highlights</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-skills">Skills</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies-and-languages">Technologies & Languages</a> &#xa0; | &#xa0;
-  <a href="#rocket-tools-and-ides">Tools & IDEs</a> &#xa0; | &#xa0;<a href="#chart-analytics">Analytics</a> &#xa0; | &#xa0;<a href="#email-contact">Contact</a> &#xa0; | &#xa0;
+  <a href="#rocket-tools-and-ides">Tools & IDEs</a> &#xa0; | &#xa0;<a href="#chart-analytics">Analytics</a> &#xa0; | &#xa0;<a href="#email-contact">Contact</a>
 </p>
 
 <br>
