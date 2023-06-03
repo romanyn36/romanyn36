@@ -55,7 +55,7 @@
   <a href="#sparkles-my-github-highlights">GitHub Highlights</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-skills">Skills</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies-and-languages">Technologies & Languages</a> &#xa0; | &#xa0;
-  <a href="#rocket-tools-and-ides">Tools & IDEs</a> &#xa0; | &#xa0;<a href="#chart-analytics">Analytics</a> &#xa0; | &#xa0;<a href="#computer-workspace">Workspace</a> &#xa0; | &#xa0;<a href="#email-contact">Contact</a> &#xa0; | &#xa0;
+  <a href="#rocket-tools-and-ides">Tools & IDEs</a> &#xa0; | &#xa0;<a href="#chart-analytics">Analytics</a> &#xa0; | &#xa0;<a href="#email-contact">Contact</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0;
 </p>
 
@@ -159,9 +159,9 @@ love chess and coding.
  <!-- theme=algolia 
  theme=buefy
  -->
-![](https://github-readme-stats.vercel.app/api?username=romanyn36&include_all_commits=true&hide=contribs)
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=romanyn36&include_all_commits=true&hide=contribs&count_private=true) -->
+
+![](https://github-readme-stats.vercel.app/api?username=romanyn36&include_all_commits=true&hide=contribs&count_private=true)
 
  <p align="left">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=romanyn36&theme=buefy" />
@@ -176,11 +176,6 @@ love chess and coding.
 <!-- ## 📊 Leetcode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/romanyn36?theme=light&font=Marvel)
  -->
-
-
- ### :computer: Workspace
-![Ubuntu ](https://img.shields.io/badge/Ubuntu%2022.04.2-E95420?logo=ubuntu&logoColor=white&style=flat)
-![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?logo=windows&logoColor=white&style=flat)
 
 
 
