@@ -236,7 +236,7 @@ love chess and coding.
 
 &#xa0;
 
-![snake animation](https://github.com/romanyn36/romanyn36/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/romanyn36/romanyn36/blob/output/github-contribution-grid-snake.svg)
 <!-- ![Snake Animation](https://github.com/romanyn36/romanyn36/blob/main/github-contribution-grid-snake.svg) -->
 
 
