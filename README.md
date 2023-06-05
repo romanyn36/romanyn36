@@ -235,9 +235,7 @@ love chess and coding.
 
 &#xa0;
 
-![snake animation](https://github.com/romanyn36/romanyn36/blob/output/github-contribution-grid-snake.svg)
-<!-- ![Snake Animation](https://github.com/romanyn36/romanyn36/blob/main/github-contribution-grid-snake.svg) -->
-
+![snake animation](https://raw.githubusercontent.com/romanyn36/romanyn36/output/github-contribution-grid-snake.svg)
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
