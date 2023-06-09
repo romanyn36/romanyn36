@@ -21,26 +21,14 @@
   <img src="https://img.shields.io/badge/-RomaniNasser -1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
 
-
-<a href="https://github.com/romanyn36" target="_blank">
-  <img src="https://img.shields.io/badge/-@romanyn36-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-</p>
-
-<!-- social links -->
-<p align="center">
-<a href="https://romanyn36.github.io" target="_blank">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
-</a>
-
-<a href="https://www.linkedin.com/in/romanyn36/" target="_blank">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
-
 <a href="https://twitter.com/romanyn36" target="_blank">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
+  <img src="https://img.shields.io/badge/-@romanyn36-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
+
+<a href="https://www.linkedin.com/in/romanyn36" target="_blank">
+  <img src="https://img.shields.io/badge/-@romanyn36-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
 </p>
 
 
@@ -185,18 +173,11 @@ love chess and coding.
   <img src="https://img.shields.io/badge/-Romani-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
 
-<!-- <a href="https://twitter.com/romanyn36" target="_blank">
-  <img src="https://img.shields.io/badge/-@romanyn36-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /> -->
+<a href="https://twitter.com/romanyn36" target="_blank">
+  <img src="https://img.shields.io/badge/-@romanyn36-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
 
-<!-- <a href="https://www.instagram.com/romanyn36/" target="_blank">
-  <img src="https://img.shields.io/badge/-romanyn36-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
-</a> -->
 
-
-<!-- <a href="mailto:youremail@example.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=mail.ru&logoColor=white" alt="Email" />
-</a> -->
 
 <!-- <a href="https://www.linkedin.com/in/romanyn36" target="_blank">
   <img src="https://img.shields.io/badge/-@romanyn36-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -206,30 +187,28 @@ love chess and coding.
   <img src="https://img.shields.io/badge/-@romanyn36-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
+
 <a href="https://stackoverflow.com/users/17348975/romani" target="_blank">
   <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
 </a>
 
-</p>
-
-<!-- social links -->
-<p align="center">
-<a href="https://romanyn36.github.io" target="_blank">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+<a href="mailto:romanyyy36dr99@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=mail.ru&logoColor=white" alt="Email" />
 </a>
 
 <a href="https://www.linkedin.com/in/romanyn36/" target="_blank">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+    <img src="https://img.shields.io/badge/Connect-Romani-blue.svg?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 
-<a href="https://dev.to/romanyn36" target="_blank">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
+
+<a href="https://dev.to/romanyn36" target="_blank" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/DEV.to-Follow-black.svg?style=flat&logo=dev.to&logoColor=white" />
 </a>
 
-<a href="https://twitter.com/romanyn36" target="_blank">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
-</a>
-
+<!-- <a href="https://www.buymeacoffee.com/romanyn36" target="_blank" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center"/>
+  </a> -->
+  
 
 </p>
 
