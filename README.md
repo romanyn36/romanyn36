@@ -205,11 +205,15 @@ love chess and coding.
     <img src="https://img.shields.io/badge/DEV.to-Follow-black.svg?style=flat&logo=dev.to&logoColor=white" />
 </a>
 
+<a href="https://www.kaggle.com/romanyn36" target="_blank" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Kaggle-Romani-blue.svg?style=flat-square&logo=kaggle" />
+</a>
+
+
 <!-- <a href="https://www.buymeacoffee.com/romanyn36" target="_blank" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center"/>
   </a> -->
   
-
 </p>
 
 &#xa0;
