@@ -177,12 +177,6 @@ love chess and coding.
   <img src="https://img.shields.io/badge/-@romanyn36-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
 
-
-
-<!-- <a href="https://www.linkedin.com/in/romanyn36" target="_blank">
-  <img src="https://img.shields.io/badge/-@romanyn36-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a> -->
-
 <a href="https://github.com/romanyn36" target="_blank">
   <img src="https://img.shields.io/badge/-@romanyn36-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
 </a>
@@ -208,7 +202,25 @@ love chess and coding.
 <a href="https://www.kaggle.com/romanyn36" target="_blank" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Kaggle-Romani-blue.svg?style=flat-square&logo=kaggle" />
 </a>
+<!-- icons  -->
+<a href="https://www.leetcode.com/romanyn36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="romanyn36" height="30" width="40" /></a> 
 
+<a href="https://instagram.com/romanyn36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="romanyn36" height="30" width="40" /></a>
+
+<a href="https://fb.com/romanyn3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="romanyn36" height="30" width="40" /></a>
+
+<a href="https://dev.to/romanyn36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="romanyn36" height="30" width="40" /></a>
+
+<a href="https://twitter.com/romanyn36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="romanyn36" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/romanyn36" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="romanyn36" height="30" width="40" /></a>
+
+<a href="https://stackoverflow.com/users/17348975/romani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="romanyn36" height="30" width="40" /></a>
+
+<a href="https://kaggle.com/romanyn36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="romanyn36" height="30" width="40" /></a>
+
+
+   
 
 <!-- <a href="https://www.buymeacoffee.com/romanyn36" target="_blank" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center"/>
