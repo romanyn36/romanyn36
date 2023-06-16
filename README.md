@@ -167,9 +167,10 @@ love chess and coding.
 
 ### :email: Contact ##
  <a href="https://github.com/romanyn36/Cv/blob/main/Romani-Nasrat-Resume-SW.pdf" target="_blank">My Resume </a>
-
+[My E-mail](mailto:romanyyy36dr99@gmail.com)
 <p align="center">
- <a href="https://www.facebook.com/romanyn3/" target="_blank">
+ 
+ <!-- <a href="https://www.facebook.com/romanyn3/" target="_blank">
   <img src="https://img.shields.io/badge/-Romani-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
 
@@ -179,14 +180,9 @@ love chess and coding.
 
 <a href="https://github.com/romanyn36" target="_blank">
   <img src="https://img.shields.io/badge/-@romanyn36-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-
-<a href="https://stackoverflow.com/users/17348975/romani" target="_blank">
+</a><a href="https://stackoverflow.com/users/17348975/romani" target="_blank">
   <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
-</a>
-
-<a href="mailto:romanyyy36dr99@gmail.com" target="_blank">
+</a><a href="mailto:romanyyy36dr99@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=mail.ru&logoColor=white" alt="Email" />
 </a>
 
@@ -201,26 +197,8 @@ love chess and coding.
 
 <a href="https://www.kaggle.com/romanyn36" target="_blank" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Kaggle-Romani-blue.svg?style=flat-square&logo=kaggle" />
-</a>
-<!-- icons  -->
-<a href="https://www.leetcode.com/romanyn36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="romanyn36" height="30" width="40" /></a> 
-
-<a href="https://instagram.com/romanyn36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="romanyn36" height="30" width="40" /></a>
-
-<a href="https://fb.com/romanyn3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="romanyn36" height="30" width="40" /></a>
-
-<a href="https://dev.to/romanyn36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="romanyn36" height="30" width="40" /></a>
-
-<a href="https://twitter.com/romanyn36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="romanyn36" height="30" width="40" /></a>
-
-<a href="https://linkedin.com/in/romanyn36" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="romanyn36" height="30" width="40" /></a>
-
-<a href="https://stackoverflow.com/users/17348975/romani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="romanyn36" height="30" width="40" /></a>
-
-<a href="https://kaggle.com/romanyn36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="romanyn36" height="30" width="40" /></a>
-
-
-   
+</a> -->
+<!-- icons  --><a href="https://kaggle.com/romanyn36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="romanyn36" height="30" width="40" /></a> <a href="https://linkedin.com/in/romanyn36" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="romanyn36" height="30" width="40" /></a> <a href="https://fb.com/romanyn3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="romanyn36" height="30" width="40" /></a> <a href="https://twitter.com/romanyn36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="romanyn36" height="30" width="40" /> <a href="https://stackoverflow.com/users/17348975/romani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="romanyn36" height="30" width="40" /></a><a href="https://kaggle.com/romanyn36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="romanyn36" height="30" width="40" /></a> <a href="https://instagram.com/romanyn36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="romanyn36" height="30" width="40" /></a> <a href="https://www.leetcode.com/romanyn36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="romanyn36" height="30" width="40" /></a> <a href="https://dev.to/romanyn36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="romanyn36" height="30" width="40" /></a>
 
 <!-- <a href="https://www.buymeacoffee.com/romanyn36" target="_blank" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center"/>
