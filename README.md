@@ -41,8 +41,7 @@
   <a href="#dart-about-me">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-my-github-highlights">GitHub Highlights</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-skills">Skills</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies-and-languages">Technologies & Languages</a> &#xa0; | &#xa0;
-  <a href="#rocket-tools-and-ides">Tools & IDEs</a> &#xa0; | &#xa0;<a href="#chart-analytics">Analytics</a> &#xa0; | &#xa0;<a href="#email-contact">Contact</a>
+  <a href="#rocket-Technologies%20and%20Tools">Technologies & Languages</a> &#xa0; | &#xa0<a href="#chart-analytics">Analytics</a> &#xa0; | &#xa0;<a href="#email-contact">Contact</a>
 </p>
 
 <br>
@@ -76,7 +75,7 @@ love chess and coding.
 
 
 
-### :rocket: Technologies and Languages 
+### :rocket: Technologies and Tools
 <p align="left">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
@@ -105,13 +104,7 @@ love chess and coding.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle Database" width="45" height="45" />
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
-   
 
-&nbsp;
-
-
-### :rocket: Tools and IDEs
-<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio 2022" width="45" height="45" />
@@ -126,10 +119,8 @@ love chess and coding.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
-
-![Figma][figmlink] ![Shell][selllink] ![Markdown][markdownlink] ![NetBeans][netbeanslink]<br />
+![Figma][figmlink] ![Shell][selllink] ![Markdown][markdownlink] ![NetBeans][netbeanslink]
 ![Spyder][spyderlink] ![Android Studio][androidstudio] ![IntelliJ][def] 
-<br />
 ![Postman][postmanlink] 
 
 
