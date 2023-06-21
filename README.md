@@ -41,7 +41,7 @@
   <a href="#dart-about-me">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-my-github-highlights">GitHub Highlights</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-skills">Skills</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies-and-tools">Technologies & Languages</a> &#xa0; | &#xa0<a href="#chart-analytics">Analytics</a> &#xa0; | &#xa0;<a href="#email-contact">Contact</a>
+  <a href="#rocket-languages-and-tools">Languages and Tools</a> &#xa0; | &#xa0<a href="#chart-analytics">Analytics</a> &#xa0; | &#xa0;<a href="#email-contact">Contact</a>
 </p>
 
 <br>
@@ -75,7 +75,7 @@ love chess and coding.
 
 
 
-### :rocket: Technologies and Tools
+### :rocket: Languages and Tools
 <p align="left">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
