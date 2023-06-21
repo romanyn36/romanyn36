@@ -139,7 +139,7 @@ love chess and coding.
  -->
 
 
-![](https://github-readme-stats.vercel.app/api?username=romanyn36&include_all_commits=true&hide=contribs&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=romanyn36&include_all_commits=true&count_private=true)
 
  <p align="left">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=romanyn36&theme=buefy" />
