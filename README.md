@@ -10,7 +10,7 @@
 
 
 <div align="center" id="top"> 
-<img src="/images/me.jpg" alt="Romani" width="300" height="300" />
+<img src="/images/me1.jpg" alt="Romani" width="300" height="300" />
 </div>
 
 <h1 align="center" > Hi 👋, I'm Romani</h1><h3 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Software Engineer</h3>
