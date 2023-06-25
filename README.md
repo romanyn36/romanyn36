@@ -13,7 +13,7 @@
 <img src="/images/me1.jpg" alt="Romani" width="300" height="300" />
 </div>
 
-<h1 align="center" > Hi 👋, I'm Romani</h1><h3 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Software Engineer</h3>
+<h1 align="center" > Hi 👋, I'm Romani</h1><h3 align="center"> I'm Software Engineer</h3>
 
 <!-- links -->
 <p align="center">
@@ -69,7 +69,7 @@ love chess and coding.
 ### :white_check_mark: Skills 
 
 :heavy_check_mark: kotlin,python, C++,Java.\
-:heavy_check_mark: oop ,SOLID,openCv, APIs,android ,ML,DL,development.\
+:heavy_check_mark: oop ,SOLID,openCv, APIs, android ,ML,DL,development.\
 :heavy_check_mark:  leadership, problem solving.
 
 
