@@ -65,6 +65,7 @@ love chess and coding.
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=romanyn36&show_icons=true&locale=en&layout=compact&theme=buefy" alt="romanyn36" />
 </p>
 
+[![](https://github-readme-stats-7cnr-9k8s09opj-romanyn36.vercel.app/api/top-langs?username=romanyn36&show_icons=true&locale=en&layout=compact&theme=buefy)]()
 
 ### :white_check_mark: Skills 
 
