@@ -62,10 +62,10 @@ love chess and coding.
 <p align="center">
 	<img src=http://github-profile-summary-cards.vercel.app/api/cards/stats?username=romanyn36&theme=buefy alt=romanyn36 />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=romanyn36&show_icons=true&locale=en&layout=compact&theme=buefy" alt="romanyn36" />
+  <img src="https://github-readme-stats-7cnr-9k8s09opj-romanyn36.vercel.app/api/top-langs?username=romanyn36&show_icons=true&locale=en&layout=compact&theme=buefy" alt="romanyn36" />
 </p>
 
-[![](https://github-readme-stats-7cnr-9k8s09opj-romanyn36.vercel.app/api/top-langs?username=romanyn36&show_icons=true&locale=en&layout=compact&theme=buefy)]()
+
 
 ### :white_check_mark: Skills 
 
@@ -140,7 +140,7 @@ love chess and coding.
  -->
 
 
-![](https://github-readme-stats.vercel.app/api?username=romanyn36&include_all_commits=true&count_private=true)
+![](https://github-readme-stats-7cnr-9k8s09opj-romanyn36.vercel.app/api?username=romanyn36&include_all_commits=true&count_private=true)
 
  <p align="left">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=romanyn36&theme=buefy" />
