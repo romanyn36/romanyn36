@@ -119,11 +119,13 @@ love chess and coding.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="45" height="45" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
+
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>   
 </p>
 
-![Figma][figmlink] ![Shell][selllink] ![Markdown][markdownlink] ![NetBeans][netbeanslink]
+ ![Markdown][markdownlink] ![NetBeans][netbeanslink]
 ![Spyder][spyderlink] ![Android Studio][androidstudio] ![IntelliJ][def] 
-![Postman][postmanlink] 
+
 
 
 <!-- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) -->
