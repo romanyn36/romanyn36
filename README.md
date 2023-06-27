@@ -50,10 +50,13 @@
 ## :dart: About Me 
 <p>
 Hi!! My name Is Romani
-I’m a student in benha, faculty of computers and artificial intelligence, studying Artificial intelligence, computer science,
-And android apps developer graduated from “Android Kotlin Developer Nanodegree” at Udacity 
-i'm fast learner love programming and new technologies 
-love chess and coding.
+I’m a student in benha, faculty of computers and artificial intelligence.
+i'm fast learner. i love programming, new technologies, chess and problem solving
+i'm studying Artificial intelligence, computer science and working with most common technologies like combine ML models with NLP, RNN and other Deep Learning models.
+also working with Transfer Learning ,Generative models.
+in addition to self learning Android Development with kotlin and graduated from “Android Kotlin Developer Nanodegree” at Udacity 
+also i have experience in desktop apps development with java.
+i use my experience to combine AI and create intelligent Apps and Projects like chat bots, image classification, speech recognition and articles clustering, object detection and classification. and others.
 </p>
 
 
@@ -123,8 +126,6 @@ love chess and coding.
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>   
 </p>
 
- ![Markdown][markdownlink] ![NetBeans][netbeanslink]
-![Spyder][spyderlink] ![Android Studio][androidstudio] ![IntelliJ][def] 
 
 
 
@@ -210,13 +211,3 @@ love chess and coding.
 </p>
 
 <a href="#top">Back to top</a>
-
-
-[netbeanslink]: https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white
-[def]: https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=jetbrains
-[figmlink]: https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white
-[selllink]: https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white
-[markdownlink]: https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown
-[spyderlink]: https://img.shields.io/badge/-Spyder-FF0000?style=flat&logo=spyder-ide&logoColor=white
-[postmanlink]: https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman
-[androidstudio]: https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white
