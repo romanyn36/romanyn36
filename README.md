@@ -107,7 +107,7 @@ i use my experience to combine AI and create intelligent Apps and Projects like 
  theme=buefy
  -->
  <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=romanyn36&theme=buefy" alt="romanyn36" width="170" height="170"/>
+
 
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=romanyn36&theme=buefy" />
 
@@ -116,7 +116,7 @@ i use my experience to combine AI and create intelligent Apps and Projects like 
  
 <p align="center">
  
- 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=romanyn36&theme=buefy" alt="romanyn36" />
 
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romanyn36&theme=buefy" >
 
