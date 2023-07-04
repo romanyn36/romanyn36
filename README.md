@@ -39,9 +39,7 @@
 
 <p align="center">
   <a href="#dart-about-me">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-my-github-highlights">GitHub Highlights</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-skills">Skills</a> &#xa0; | &#xa0;
-  <a href="#rocket-languages-and-tools">Languages and Tools</a> &#xa0; | &#xa0<a href="#chart-analytics">Analytics</a> &#xa0; | &#xa0;<a href="#email-contact">Contact</a>
+  <a href="#sparkles-my-github-highlights">GitHub Highlights</a> &#xa0; | &#xa0;<a href="#rocket-languages-and-tools">Languages and Tools</a> &#xa0; | &#xa0<a href="#chart-analytics">Analytics</a> &#xa0; | &#xa0;<a href="#email-contact">Contact</a>
 </p>
 
 <br>
@@ -67,15 +65,6 @@ i use my experience to combine AI and create intelligent Apps and Projects like 
 
   <img src="https://github-readme-stats-7cnr-9k8s09opj-romanyn36.vercel.app/api/top-langs?username=romanyn36&show_icons=true&locale=en&layout=compact&theme=buefy" alt="romanyn36" />
 </p>
-
-
-
-### :white_check_mark: Skills 
-
-:heavy_check_mark: kotlin,python, C++,Java.\
-:heavy_check_mark: oop ,SOLID,openCv, APIs, android ,ML,DL,development.\
-:heavy_check_mark:  leadership, problem solving.
-
 
 
 
@@ -125,15 +114,6 @@ i use my experience to combine AI and create intelligent Apps and Projects like 
 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>   
 </p>
-
-
-
-
-<!-- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) -->
- <!-- ![Visual Studio 2022](https://img.shields.io/badge/-Visual%20Studio%202022-5C2D91?style=flat&logo=visual-studio&logoColor=white) -->
-
- &nbsp;
-
 
 
 
