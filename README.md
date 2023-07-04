@@ -13,7 +13,7 @@
 <img src="/images/me1.jpg" alt="Romani" width="170" height="170" />
 </div>
 
-<h1 align="center" > Hi 👋, I'm Romani</h1><h3 align="center"> I'm Software Engineer</h3>
+<h1 align="center" > Hi 👋, I'm Romani</h1><h3 align="center"> I'm ML Engineer</h3>
 
 <p align="center">
  
@@ -73,48 +73,21 @@ i use my experience to combine AI and create intelligent Apps and Projects like 
 # :rocket: Languages and Tools
 <p align="left">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
+<img src="https://skillicons.dev/icons?i=py,tensorflow,react,c,cpp,css,html,java,js,figma,firebase,kotlin,gradle,git,bash,linux,matlab,postman,visualstudio,vscode,regex&perline=10">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45" />
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin" width="45" height="45" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45" />
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="45" height="45" />
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="45" height="45" />
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="45" height="45" />
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="45" height="45" />
-
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle Database" width="45" height="45" />
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio 2022" width="45" height="45" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>     
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+   
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="45" height="45" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
-
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>   
 </p>
 
 
@@ -137,9 +110,9 @@ i use my experience to combine AI and create intelligent Apps and Projects like 
  
 <p align="center">
 
-<image src="https://github-readme-stats-7cnr-9k8s09opj-romanyn36.vercel.app/api?username=romanyn36&include_all_commits=true&count_private=true">
+<img src="https://github-readme-stats-7cnr-9k8s09opj-romanyn36.vercel.app/api?username=romanyn36&include_all_commits=true&count_private=true">
 
- <image src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romanyn36&theme=buefy" >
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romanyn36&theme=buefy" >
 
 </p>  
 
