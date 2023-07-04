@@ -54,7 +54,7 @@
 </p>
 
 
-## :dart: About Me 
+# :dart: About Me 
 <p>
 Hi!! My name Is Romani
 I’m a student in benha, faculty of computers and artificial intelligence.
@@ -70,7 +70,7 @@ i use my experience to combine AI and create intelligent Apps and Projects like 
 
 
 
-### :rocket: Languages and Tools
+# :rocket: Languages and Tools
 <p align="left">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
@@ -118,7 +118,7 @@ i use my experience to combine AI and create intelligent Apps and Projects like 
 </p>
 
 
-### :sparkles: My GitHub Highlights
+# :sparkles: My GitHub Highlights
 
 <p align="center">
 	<img src=http://github-profile-summary-cards.vercel.app/api/cards/stats?username=romanyn36&theme=buefy alt=romanyn36 />
@@ -134,13 +134,13 @@ i use my experience to combine AI and create intelligent Apps and Projects like 
 
 <image src="https://github-readme-stats-7cnr-9k8s09opj-romanyn36.vercel.app/api?username=romanyn36&include_all_commits=true&count_private=true">
 
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=romanyn36&theme=buefy" />
+  <img height="180" width="180" src="https://github-readme-streak-stats.herokuapp.com/?user=romanyn36&theme=buefy" />
 
-<image src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romanyn36&theme=buefy" >
+
  
 
 </p>  
- 
+ <image src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romanyn36&theme=buefy" >
 
 
 <!-- ## 📊 Leetcode Stats
@@ -149,7 +149,7 @@ i use my experience to combine AI and create intelligent Apps and Projects like 
 
 
 
-### :email: Contact ##
+# :email: Contact ##
 
  - [My Resume](https://github.com/romanyn36/Cv/blob/main/Romani-Nasrat-Resume-SW.pdf)
 - [My E-mail](mailto:romanyyy36dr99@gmail.com)
