@@ -99,12 +99,12 @@ i use my experience to combine AI and create intelligent Apps and Projects like 
   <img src="https://github-readme-stats-7cnr-9k8s09opj-romanyn36.vercel.app/api/top-langs?username=romanyn36&show_icons=true&locale=en&layout=compact&theme=buefy" alt="romanyn36" />
 </p>
 
- ### :chart: Analytics
+ # :chart: Analytics
  <!-- theme=algolia 
  theme=buefy
  -->
  <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=romanyn36&theme=buefy" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=romanyn36&theme=buefy" width="500" />
 </p>
 
  
