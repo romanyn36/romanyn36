@@ -72,8 +72,8 @@ i use my experience to combine AI and create intelligent Apps and Projects like 
 
 # :rocket: Languages and Tools
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=py,tensorflow,react,c,cpp,css,html,java,js,figma,firebase,kotlin,gradle,git,bash,linux,matlab,postman,visualstudio,vscode,regex&perline=10">
+<!-- &perline=10 -->
+<img src="https://skillicons.dev/icons?i=py,tensorflow,react,c,cpp,css,html,java,js,figma,firebase,kotlin,gradle,git,bash,linux,matlab,postman,visualstudio,vscode,regex">
 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="45" height="45" />
