@@ -10,7 +10,7 @@
 
 
 <div align="center" id="top"> 
-<img src="/images/me1.jpg" alt="Romani" width="300" height="300" />
+<img src="/images/me1.jpg" alt="Romani" width="170" height="170" />
 </div>
 
 <h1 align="center" > Hi 👋, I'm Romani</h1><h3 align="center"> I'm Software Engineer</h3>
