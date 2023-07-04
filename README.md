@@ -130,17 +130,19 @@ i use my experience to combine AI and create intelligent Apps and Projects like 
  <!-- theme=algolia 
  theme=buefy
  -->
+ <p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=romanyn36&theme=buefy" />
+</p>
+
+ 
 <p align="center">
 
 <image src="https://github-readme-stats-7cnr-9k8s09opj-romanyn36.vercel.app/api?username=romanyn36&include_all_commits=true&count_private=true">
 
-  <img height="180" width="180" src="https://github-readme-streak-stats.herokuapp.com/?user=romanyn36&theme=buefy" />
-
-
- 
+ <image src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romanyn36&theme=buefy" >
 
 </p>  
- <image src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romanyn36&theme=buefy" >
+
 
 
 <!-- ## 📊 Leetcode Stats
