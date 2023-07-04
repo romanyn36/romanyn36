@@ -54,16 +54,6 @@
 </p>
 
 
-<!-- page conants -->
-
-<p align="center">
-  <a href="#dart-about-me">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-my-github-highlights">GitHub Highlights</a> &#xa0; | &#xa0;<a href="#rocket-languages-and-tools">Languages and Tools</a> &#xa0; | &#xa0<a href="#chart-analytics">Analytics</a> &#xa0; | &#xa0;<a href="#email-contact">Contact</a>
-</p>
-
-<br>
-
-
 ## :dart: About Me 
 <p>
 Hi!! My name Is Romani
