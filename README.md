@@ -98,7 +98,7 @@ i use my experience to combine AI and create intelligent Apps and Projects like 
 
 <img src="https://github-readme-stats.vercel.app/api?username=romanyn36&include_all_commits=true&count_private=true">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=romanyn36&show_icons=true&locale=en&layout=compact&theme=buefy" alt="top languages" />
+
 
 
 
@@ -119,18 +119,19 @@ i use my experience to combine AI and create intelligent Apps and Projects like 
 <p align="center">
  
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=romanyn36&theme=buefy" alt="romanyn36" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=romanyn36&show_icons=true&locale=en&layout=compact&theme=buefy" alt="top languages" />
 
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romanyn36&theme=buefy" >
 
 </p>  
-
-
+<p align="center">
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romanyn36&theme=buefy" >
 
 <!-- ## 📊 Leetcode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/romanyn36?theme=light&font=Marvel)
  -->
 
-
+</p>
 
 # :email: Contact ##
 
