@@ -96,10 +96,12 @@ i use my experience to combine AI and create intelligent Apps and Projects like 
 <p align="center">
 	
 
-<img src="https://github-readme-stats-7cnr-9k8s09opj-romanyn36.vercel.app/api?username=romanyn36&include_all_commits=true&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api?username=romanyn36&include_all_commits=true&count_private=true">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=romanyn36&show_icons=true&locale=en&layout=compact&theme=buefy" alt="top languages" />
 
 
-  <img src="https://github-readme-stats-7cnr-9k8s09opj-romanyn36.vercel.app/api/top-langs?username=romanyn36&show_icons=true&locale=en&layout=compact&theme=buefy" alt="romanyn36" />
+
 </p>
 
  # :chart: Analytics
