@@ -56,13 +56,13 @@
 
 # :dart: About Me 
 <p>
-Hi!! My name Is Romani
+Hi!! My name Is <b>Romani</b>
 I’m a student in benha, faculty of computers and artificial intelligence.
 i'm fast learner. i love programming, new technologies, chess and problem solving
-i'm studying Artificial intelligence, computer science and working with most common technologies like combine ML models with Deep Learning models.
-also working with Transfer Learning ,Generative models.
-in addition to self learning Android Development with kotlin and graduated from “Android Kotlin Developer Nanodegree” at Udacity 
-also i have experience in desktop apps development with java and python 
+i'm <b>studying Artificial intelligence</b>, computer science and working with most common technologies like combine <b>ML models with Deep Learning</b> models.
+also working with <b>Transfer Learning</b> ,<b>Generative models.</b>
+in addition to self learning Android Development with kotlin and graduated from <b>“Android Kotlin Developer Nanodegree”</b> at Udacity 
+also i have experience in desktop apps development with <b>java</b> and <b>python</b> 
 i use my experience to combine AI and create intelligent Apps and Projects like chat bots, image classification, speech recognition and articles clustering, object detection and classification. and others.
 </p>
 
