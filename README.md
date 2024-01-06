@@ -9,9 +9,9 @@
 
 
 
-<div align="center" id="top"> 
+<!-- <div align="center" id="top"> 
 <img src="/images/me1.jpg" alt="Romani" width="200" height="200" style="border-radius: 50%;"/>
-</div>
+</div> -->
 
 <h1 align="center" > Hi 👋, I'm Romani</h1><h3 align="center"> I'm ML Engineer</h3>
 
