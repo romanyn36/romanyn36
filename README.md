@@ -56,14 +56,15 @@
 
 # :dart: About Me 
 <p>
-Hi!! My name Is <b>Romani</b>
-I’m a student in benha, faculty of computers and artificial intelligence.
-i'm fast learner. i love programming, new technologies, chess and problem solving
-i'm <b>studying Artificial intelligence</b>, computer science and working with most common technologies like combine <b>ML models with Deep Learning</b> models.
-also working with <b>Transfer Learning</b> ,<b>Generative models.</b>
-in addition to self learning Android Development with kotlin and graduated from <b>“Android Kotlin Developer Nanodegree”</b> at Udacity 
-also i have experience in desktop apps development with <b>java</b> and <b>python</b> 
-i use my experience to combine AI and create intelligent Apps and Projects like chat bots, image classification, speech recognition and articles clustering, object detection and classification. and others.
+Hi! I'm Romani, an <b>AI engineer and backend developer</b>. I graduated from the Faculty of Computers and Artificial Intelligence at Benha University. I'm a fast learner with a passion for programming, new technologies, chess, and problem-solving.
+
+In the Artificial Intelligence department, I have developed and continue to enhance my skills, working with technologies such as machine learning (ML) models, deep learning models, transfer learning, generative models, and Hugging Face.
+
+Additionally, I am self-taught in web development, specializing in Python backend frameworks like Flask and Django. I have worked on numerous projects, leveraging my expertise to combine AI and create intelligent web applications. My work includes integrating AI features into websites, such as chatbots, image classification, speech recognition, articles clustering, and object detection and classification
+
+I am proficient in multiple programming languages, including Java, C++, Python, Kotlin, and JavaScript. I have a strong understanding of Object-Oriented Programming (OOP) principles and SOLID design principles.
+
+
 </p>
 
 
