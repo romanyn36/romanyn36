@@ -56,12 +56,13 @@
 
 # :dart: About Me 
 <p>
-Hi! I'm Romani, an <b>AI engineer and backend developer</b>. I graduated from the Faculty of Computers and Artificial Intelligence at Benha University. I'm a fast learner with a passion for programming, new technologies, chess, and problem-solving.
+Hi! I'm Romani, an <b>AI engineer and backend developer</b>. I graduated from the Faculty of Computers and Artificial Intelligence at Benha University.
 
 In the Artificial Intelligence department, I have developed and continue to enhance my skills, working with technologies such as machine learning (ML) models, deep learning models, transfer learning, generative models, and Hugging Face.
 
 Additionally, I am self-taught in web development, specializing in Python backend frameworks like Flask and Django. I have worked on numerous projects, leveraging my expertise to combine AI and create intelligent web applications. My work includes integrating AI features into websites, such as chatbots, image classification, speech recognition, articles clustering, and object detection and classification
 
+I'm a fast learner with a passion for programming, new technologies, chess, and problem-solving.
 I am proficient in multiple programming languages, including Java, C++, Python, Kotlin, and JavaScript. I have a strong understanding of Object-Oriented Programming (OOP) principles and SOLID design principles.
 
 
@@ -178,7 +179,7 @@ I am proficient in multiple programming languages, including Java, C++, Python, 
 
 &#xa0;
 
-![snake animation](https://raw.githubusercontent.com/romanyn36/romanyn36/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/romanyn36/romanyn36/output/snake.svg" alt="Snake animation" />
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
