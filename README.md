@@ -6,13 +6,15 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=romanyn36&color=blue)
 
+<div align="center">
+  <img height="200" src="https://upload.wikimedia.org/wikipedia/en/e/e7/Steve_%28Minecraft%29.png?20220417165835"  />
+</div>
 
-
+<div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7136E&center=true&vCenter=true&multiline=true&width=435&height=100&lines=hello+I'm+Romani;I'm+AI+Engnieer+)](https://git.io/typing-svg)
 
-
-###
-
+</div>
 
 ###
 
@@ -41,26 +43,14 @@
 
 
 
-<a href="https://www.buymeacoffee.com/romanyn36" target="_blank" style="display: inline-block;">
+<!-- <a href="https://www.buymeacoffee.com/romanyn36" target="_blank" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center"/>
-  </a>
+  </a> -->
   
-</p>
 
 
-# :dart: About Me 
-<p>
-Hi! I'm Romani, an <b>AI engineer and backend developer</b>. I graduated from the Faculty of Computers and Artificial Intelligence at Benha University.
-
-In the Artificial Intelligence department, I have developed and continue to enhance my skills, working with technologies such as machine learning (ML) models, deep learning models, transfer learning, generative models, and Hugging Face.
-
-Additionally, I am self-taught in web development, specializing in Python backend frameworks like Flask and Django. I have worked on numerous projects, leveraging my expertise to combine AI and create intelligent web applications. My work includes integrating AI features into websites, such as chatbots, image classification, speech recognition, articles clustering, and object detection and classification
-
-I'm a fast learner with a passion for programming, new technologies, chess, and problem-solving.
-I am proficient in multiple programming languages, including Java, C++, Python, Kotlin, and JavaScript. I have a strong understanding of Object-Oriented Programming (OOP) principles and SOLID design principles.
 
 
-</p>
 
 
 
@@ -152,12 +142,24 @@ I am proficient in multiple programming languages, including Java, C++, Python, 
 <!-- &perline=10 -->
 <img src="https://skillicons.dev/icons?i=linux,matlab,postman,visualstudio,vscode,regex">
 
+# :dart: About Me 
+<p>
+Hi! I'm Romani, an <b>AI engineer and backend developer</b>. I graduated from the Faculty of Computers and Artificial Intelligence at Benha University.
 
+In the Artificial Intelligence department, I have developed and continue to enhance my skills, working with technologies such as machine learning (ML) models, deep learning models, transfer learning, generative models, and Hugging Face.
 
+Additionally, I am self-taught in web development, specializing in Python backend frameworks like Flask and Django. I have worked on numerous projects, leveraging my expertise to combine AI and create intelligent web applications. My work includes integrating AI features into websites, such as chatbots, image classification, speech recognition, articles clustering, and object detection and classification
 
+I'm a fast learner with a passion for programming, new technologies, chess, and problem-solving.
+I am proficient in multiple programming languages, including Java, C++, Python, Kotlin, and JavaScript. I have a strong understanding of Object-Oriented Programming (OOP) principles and SOLID design principles.
 
 
 </p>
+
+
+
+
+
 
 
 # :sparkles: My GitHub Highlights
@@ -166,13 +168,13 @@ I am proficient in multiple programming languages, including Java, C++, Python, 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=romanyn36&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=romanyn36&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=romanyn36&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 </div>
 
 	
 
 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=romanyn36&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 
 
 
@@ -182,7 +184,6 @@ I am proficient in multiple programming languages, including Java, C++, Python, 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/romanyn36?theme=light&font=Marvel) -->
 
 
-</p>
 
 
 
