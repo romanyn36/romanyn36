@@ -31,11 +31,9 @@
   <a href="https://t.me/romanyn36" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
-  <a href="https://github.com/romanyn36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="romanyn36" height="40" width="52" /></a>
+  <a href="https://github.com/romanyn36" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="romanyn36" height="40" width="52" /></a>
+   <a href="https://kaggle.com/romanyn36" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="romanyn36" height="40" width="52" /></a>
 
-<!-- kaggle -->
-   <a href="https://kaggle.com/romanyn36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="romanyn36" height="40" width="52" /></a>
-<!-- leetcode -->
 
 </div>
 
@@ -135,12 +133,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
-   
+   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
 
 </div>
 
 <!-- &perline=10 -->
-<img src="https://skillicons.dev/icons?i=linux,matlab,postman,visualstudio,vscode,regex">
+
 
 # :dart: About Me 
 <p>
@@ -206,11 +204,9 @@ I am proficient in multiple programming languages, including Java, C++, Python, 
   <a href="https://t.me/romanyn36" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
-  <a href="https://github.com/romanyn36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="romanyn36" height="40" width="52" /></a>
+  <a href="https://github.com/romanyn36" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="romanyn36" height="40" width="52" /></a>
+   <a href="https://kaggle.com/romanyn36" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="romanyn36" height="40" width="52" /></a>
 
-<!-- kaggle -->
-   <a href="https://kaggle.com/romanyn36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="romanyn36" height="40" width="52" /></a>
-<!-- leetcode -->
 
 </div>
 
