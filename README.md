@@ -57,25 +57,36 @@
 # :rocket: Skills ##
 <p align="left">
   <div align="left">
-    <strong>AI & Machine Learning:</strong><br>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="25" alt="PyTorch" />
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="25" alt="TensorFlow" />
-    <img src="https://img.shields.io/badge/Transformers-FF6F00?logo=transformers&logoColor=white" height="25" alt="Transformers" />
-    <img src="https://img.shields.io/badge/cuda-76B900?logo=nvidia&logoColor=white" height="25" alt="cuda" />
-    <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" height="25" alt="Keras" />
-    <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white" height="25" alt="Scikit-Learn" />
-    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?logo=huggingface&logoColor=black" height="25" alt="Hugging Face" />
-    <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white" height="25" alt="MLflow" />
-    <img src="https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white" height="25" alt="LangChain" />
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" height="25" alt="OpenCV" />
-    <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white" height="25" alt="Numpy" />
-    <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" height="25" alt="Pandas" />
-    <img src="https://img.shields.io/badge/kaggle-20BEFF?logo=kaggle&logoColor=white" height="25" alt="kaggle" />
-    <img src="https://img.shields.io/badge/Colab-F9AB00?logo=google-colab&logoColor=white" height="25" alt="Colab" />
+    <h2>AI & Machine Learning</h2>
+    <ul>
+      <li>
+        <strong>Frameworks & Libraries:</strong><br>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="25" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="25" alt="TensorFlow" />
+        <img src="https://img.shields.io/badge/Transformers-FF6F00?logo=transformers&logoColor=white" height="25" alt="Transformers" />
+        <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" height="25" alt="Keras" />
+        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white" height="25" alt="Scikit-Learn" />
+      </li>
+      <li>
+        <strong>Tools & Platforms:</strong><br>
+        <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?logo=huggingface&logoColor=black" height="25" alt="Hugging Face" />
+        <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white" height="25" alt="MLflow" />
+        <img src="https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white" height="25" alt="LangChain" />
+        <img src="https://img.shields.io/badge/kaggle-20BEFF?logo=kaggle&logoColor=white" height="25" alt="kaggle" />
+        <img src="https://img.shields.io/badge/Colab-F9AB00?logo=google-colab&logoColor=white" height="25" alt="Colab" />
+      </li>
+      <li>
+        <strong>Data Processing:</strong><br>
+        <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white" height="25" alt="Numpy" />
+        <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" height="25" alt="Pandas" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" height="25" alt="OpenCV" />
+        <img src="https://img.shields.io/badge/cuda-76B900?logo=nvidia&logoColor=white" height="25" alt="cuda" />
+      </li>
+    </ul>
   </div>
 
   <div align="left">
-    <strong>Programming Languages:</strong><br>
+    <h2>Programming Languages</h2>
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="25" alt="Python" />
     <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="25" alt="Java" />
     <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" height="25" alt="C++" />
@@ -84,55 +95,90 @@
   </div>
 
   <div align="left">
-    <strong>Backend & Frameworks:</strong><br>
-    <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" height="25" alt="Django" />
-    <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" height="25" alt="Flask" />
-    <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" height="25" alt="FastAPI" />
-    <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="25" alt="Node.js" />
-    <img src="https://img.shields.io/badge/django_rest_framework-092E20?logo=django&logoColor=white" height="25" alt="django_rest_framework" />
-    <img src="https://img.shields.io/badge/celery-37814A?logo=celery&logoColor=white" height="25" alt="celery" />
-    <img src="https://img.shields.io/badge/djang-channels-092E20?logo=django&logoColor=white" height="25" alt="djang-channels" />
-    <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" height="25" alt="GraphQL" />
-  </div>
-  <div align="left">
-    <strong>Cloud & Deployment:</strong><br>
-    <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" height="25" alt="AWS" />
-    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white" height="25" alt="Google Cloud" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="25" alt="Docker" />
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" height="25" alt="Kubernetes" />
-    <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white" height="25" alt="Heroku" />
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white" height="25" alt="Netlify" />
-    <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" height="25" alt="Vercel" />
-    <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white" height="25" alt="NGINX" />
-    <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white" height="25" alt="Apache" />
-    <img src="https://img.shields.io/badge/a2hosting-00A2FF?logo=a2hosting&logoColor=white" height="25" alt="a2hosting" />
-    <img src="https://img.shields.io/badge/digitalocean-0080FF?logo=digitalocean&logoColor=white" height="25" alt="digitalocean" />
-  
+    <h2>Backend & Frameworks</h2>
+    <ul>
+      <li>
+        <strong>Web Frameworks:</strong><br>
+        <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" height="25" alt="Django" />
+        <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" height="25" alt="Flask" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" height="25" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="25" alt="Node.js" />
+      </li>
+      <li>
+        <strong>APIs & Middleware:</strong><br>
+        <img src="https://img.shields.io/badge/django_rest_framework-092E20?logo=django&logoColor=white" height="25" alt="django_rest_framework" />
+        <img src="https://img.shields.io/badge/celery-37814A?logo=celery&logoColor=white" height="25" alt="celery" />
+        <img src="https://img.shields.io/badge/djang-channels-092E20?logo=django&logoColor=white" height="25" alt="djang-channels" />
+        <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" height="25" alt="GraphQL" />
+      </li>
+    </ul>
   </div>
 
   <div align="left">
-    <strong>Frontend & Databases:</strong><br>
-    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="25" alt="React" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="25" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="25" alt="CSS3" />
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" height="25" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="25" alt="MySQL" />
-    <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" height="25" alt="SQLite" />
-    <img src="https://img.shields.io/badge/redis-DC382D?logo=redis&logoColor=white" height="25" alt="redis" />
+    <h2>Cloud & Deployment</h2>
+    <ul>
+      <li>
+        <strong>Cloud Platforms:</strong><br>
+        <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" height="25" alt="AWS" />
+        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white" height="25" alt="Google Cloud" />
+        <img src="https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white" height="25" alt="DigitalOcean" />
+      </li>
+      <li>
+        <strong>Containerization & Orchestration:</strong><br>
+        <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="25" alt="Docker" />
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" height="25" alt="Kubernetes" />
+      </li>
+      <li>
+        <strong>Hosting & Servers:</strong><br>
+        <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white" height="25" alt="Heroku" />
+        <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white" height="25" alt="Netlify" />
+        <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" height="25" alt="Vercel" />
+        <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white" height="25" alt="NGINX" />
+        <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white" height="25" alt="Apache" />
+        <img src="https://img.shields.io/badge/a2hosting-00A2FF?logo=a2hosting&logoColor=white" height="25" alt="a2hosting" />
+      </li>
+    </ul>
   </div>
 
   <div align="left">
-    <strong>Tools & Platforms:</strong><br>
-    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="25" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="25" alt="GitHub" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" height="25" alt="Linux" />
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white" height="25" alt="VS Code" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="25" alt="Postman" />
-    <img src="https://img.shields.io/badge/pycharm-000000?logo=pycharm&logoColor=white" height="25" alt="pycharm" />
-    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white" height="25" alt="IntelliJ IDEA" />
-    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white" height="25" alt="Android Studio" />
-    <img src="https://img.shields.io/badge/figma-F24E1E?logo=figma&logoColor=white" height="25" alt="figma" />
-    <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white" height="25" alt="Anaconda" />
+    <h2>Frontend & Databases</h2>
+    <ul>
+      <li>
+        <strong>Frontend:</strong><br>
+        <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="25" alt="React" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="25" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="25" alt="CSS3" />
+      </li>
+      <li>
+        <strong>Databases:</strong><br>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" height="25" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="25" alt="MySQL" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" height="25" alt="SQLite" />
+        <img src="https://img.shields.io/badge/redis-DC382D?logo=redis&logoColor=white" height="25" alt="redis" />
+      </li>
+    </ul>
+  </div>
+
+  <div align="left">
+    <h2>Tools & Platforms</h2>
+    <ul>
+      <li>
+        <strong>Version Control & IDEs:</strong><br>
+        <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="25" alt="Git" />
+        <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="25" alt="GitHub" />
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white" height="25" alt="VS Code" />
+        <img src="https://img.shields.io/badge/pycharm-000000?logo=pycharm&logoColor=white" height="25" alt="pycharm" />
+        <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white" height="25" alt="IntelliJ IDEA" />
+        <img src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white" height="25" alt="Android Studio" />
+      </li>
+      <li>
+        <strong>Other Tools:</strong><br>
+        <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="25" alt="Postman" />
+        <img src="https://img.shields.io/badge/figma-F24E1E?logo=figma&logoColor=white" height="25" alt="figma" />
+        <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white" height="25" alt="Anaconda" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" height="25" alt="Linux" />
+      </li>
+    </ul>
   </div>
 </p>
 
