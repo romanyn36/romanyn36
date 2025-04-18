@@ -54,90 +54,80 @@
 
 
 
-# :rocket: Skills ##
-<p align="left">
-  <div align="left">
-    <strong>AI & Machine Learning:</strong><br>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="25" alt="PyTorch" />
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="25" alt="TensorFlow" />
-    <img src="https://img.shields.io/badge/Transformers-FF6F00?logo=transformers&logoColor=white" height="25" alt="Transformers" />
-    <img src="https://img.shields.io/badge/cuda-76B900?logo=nvidia&logoColor=white" height="25" alt="cuda" />
-    <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" height="25" alt="Keras" />
-    <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white" height="25" alt="Scikit-Learn" />
-    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?logo=huggingface&logoColor=black" height="25" alt="Hugging Face" />
-    <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white" height="25" alt="MLflow" />
-    <img src="https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white" height="25" alt="LangChain" />
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" height="25" alt="OpenCV" />
-    <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white" height="25" alt="Numpy" />
-    <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" height="25" alt="Pandas" />
-    <img src="https://img.shields.io/badge/kaggle-20BEFF?logo=kaggle&logoColor=white" height="25" alt="kaggle" />
-    <img src="https://img.shields.io/badge/Colab-F9AB00?logo=google-colab&logoColor=white" height="25" alt="Colab" />
-  </div>
+# :rocket: Skills
 
-  <div align="left">
-    <strong>Programming Languages:</strong><br>
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="25" alt="Python" />
-    <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="25" alt="Java" />
-    <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" height="25" alt="C++" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="25" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" height="25" alt="Kotlin" />
-  </div>
-
-  <div align="left">
-    <strong>Backend & Frameworks:</strong><br>
-    <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" height="25" alt="Django" />
-    <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" height="25" alt="Flask" />
-    <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" height="25" alt="FastAPI" />
-    <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="25" alt="Node.js" />
-    <img src="https://img.shields.io/badge/django_rest_framework-092E20?logo=django&logoColor=white" height="25" alt="django_rest_framework" />
-    <img src="https://img.shields.io/badge/celery-37814A?logo=celery&logoColor=white" height="25" alt="celery" />
-    <img src="https://img.shields.io/badge/djang-channels-092E20?logo=django&logoColor=white" height="25" alt="djang-channels" />
-    <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" height="25" alt="GraphQL" />
-  </div>
-  <div align="left">
-    <strong>Cloud & Deployment:</strong><br>
-    <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" height="25" alt="AWS" />
-    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white" height="25" alt="Google Cloud" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="25" alt="Docker" />
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" height="25" alt="Kubernetes" />
-    <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white" height="25" alt="Heroku" />
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white" height="25" alt="Netlify" />
-    <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" height="25" alt="Vercel" />
-    <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white" height="25" alt="NGINX" />
-    <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white" height="25" alt="Apache" />
-    <img src="https://img.shields.io/badge/a2hosting-00A2FF?logo=a2hosting&logoColor=white" height="25" alt="a2hosting" />
-    <img src="https://img.shields.io/badge/digitalocean-0080FF?logo=digitalocean&logoColor=white" height="25" alt="digitalocean" />
+<div align="center">
   
-  </div>
+  <h3>🤖 AI & Machine Learning</h3>
+  <p>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="28" alt="PyTorch" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="28" alt="TensorFlow" />
+    <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" height="28" alt="Transformers" />
+    <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="28" alt="cuda" />
+    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" height="28" alt="Keras" />
+    <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="28" alt="Scikit-Learn" />
+    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="28" alt="Hugging Face" />
+    <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" height="28" alt="LangChain" />
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="28" alt="OpenCV" />
+    <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28" alt="Numpy" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28" alt="Pandas" />
+  </p>
 
-  <div align="left">
-    <strong>Frontend & Databases:</strong><br>
-    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="25" alt="React" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="25" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="25" alt="CSS3" />
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" height="25" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="25" alt="MySQL" />
-    <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" height="25" alt="SQLite" />
-    <img src="https://img.shields.io/badge/redis-DC382D?logo=redis&logoColor=white" height="25" alt="redis" />
-  </div>
+  <h3>💻 Programming Languages</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" alt="Python" />
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="28" alt="Java" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="28" alt="C++" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="28" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" height="28" alt="Kotlin" />
+  </p>
 
-  <div align="left">
-    <strong>Tools & Platforms:</strong><br>
-    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="25" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="25" alt="GitHub" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" height="25" alt="Linux" />
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white" height="25" alt="VS Code" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="25" alt="Postman" />
-    <img src="https://img.shields.io/badge/pycharm-000000?logo=pycharm&logoColor=white" height="25" alt="pycharm" />
-    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white" height="25" alt="IntelliJ IDEA" />
-    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white" height="25" alt="Android Studio" />
-    <img src="https://img.shields.io/badge/figma-F24E1E?logo=figma&logoColor=white" height="25" alt="figma" />
-    <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white" height="25" alt="Anaconda" />
-  </div>
-</p>
+  <h3>🔧 Backend & Frameworks</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="28" alt="Django" />
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="28" alt="Flask" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="28" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="28" alt="Node.js" />
+    <img src="https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white" height="28" alt="django_rest_framework" />
+    <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" height="28" alt="celery" />
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" height="28" alt="GraphQL" />
+  </p>
 
-<!-- &perline=10 -->
+  <h3>☁️ Cloud & Deployment</h3>
+  <p>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="28" alt="AWS" />
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="28" alt="Google Cloud" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28" alt="Docker" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="28" alt="Kubernetes" />
+    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height="28" alt="Heroku" />
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="28" alt="Netlify" />
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28" alt="Vercel" />
+  </p>
 
+  <h3>🎨 Frontend & Databases</h3>
+  <p>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="28" alt="React" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="28" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="28" alt="CSS3" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="28" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28" alt="MySQL" />
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="28" alt="SQLite" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="28" alt="redis" />
+  </p>
+
+  <h3>🛠️ Tools & Platforms</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="28" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="28" alt="Linux" />
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="28" alt="VS Code" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="28" alt="Postman" />
+    <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" height="28" alt="pycharm" />
+    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" height="28" alt="IntelliJ IDEA" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="28" alt="figma" />
+  </p>
+
+</div>
 
 # :dart: About Me 
 <p>
@@ -149,6 +139,12 @@ Additionally, I am self-taught in web development, specializing in Python backen
 
 I'm a fast learner with a passion for programming, new technologies, chess, and problem-solving.
 I am proficient in multiple programming languages, including Java, C++, Python, Kotlin, and JavaScript. I have a strong understanding of Object-Oriented Programming (OOP) principles and SOLID design principles.
+
+<!-- downlaod my resume -->
+<p align="center">
+  <a href="https://github.com/romanyn36/romanyn36/blob/main/Software_Engineer_Romani_Nasrat.pdf" target="_blank" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Download%20Resume-FF5722.svg?style=flat-square&logo=google-drive" align="center"/>
+  </a>
 
 
 </p>
@@ -221,10 +217,36 @@ I am proficient in multiple programming languages, including Java, C++, Python, 
 <img src="https://raw.githubusercontent.com/romanyn36/romanyn36/output/snake.svg" alt="Snake animation" />
 
 #### Popular Projects
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+  
 <a href="https://github.com/romanyn36/Catch-The-AI">
 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=romanyn36&repo=Catch-The-AI&theme=onedark"/>
 </a>    
+<a href="https://github.com/romanyn36/Django-react-e-commerce.git">
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=romanyn36&repo=Django-react-e-commerce&theme=onedark"/>
+</a>  
+</div>
+<hr style="width:70%; margin:0 auto; border:0; height:1px; background-image:linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));">
+
+<div align="center">
+  <p>© 2023 Romani Nasrat • All Rights Reserved</p>
+  <p>
+    <a href="https://github.com/romanyn36" title="GitHub">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="25"/>
+    </a>
+    <a href="https://www.linkedin.com/in/romaninasrat/" title="LinkedIn">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25"/>
+    </a>
+    <a href="mailto:romani.nasrat@gmail.com" title="Email me">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="25"/>
+    </a>
+  </p>
+  <a href="#top" title="Back to top">
+    <img src="https://img.shields.io/badge/Back_to_top-⬆️-blue?style=for-the-badge" alt="Back to top" height="30"/>
+  </a>
+</div>
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
