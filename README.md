@@ -1,198 +1,304 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:06B6D4,100:10B981&height=80&section=header"/>
+</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&height=35&lines=%F0%9F%91%8B+Hello%2C+I'm+Romani!" alt="Typing SVG" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=550&height=30&lines=AI+Engineer+%7C+Backend+Developer;Building+Intelligent+Systems+with+LLMs" alt="Typing SVG" />
+</div>
+<div align="center">
+  <img height="150" src="https://upload.wikimedia.org/wikipedia/en/e/e7/Steve_%28Minecraft%29.png?20220417165835"/>
+</div>
+
+<br/>
+
+<!-- Profile badges -->
+<p align="center">
+  <a href="https://github.com/romanyn36">
+    <img src="https://img.shields.io/github/followers/romanyn36?label=Followers&style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27&color=8B5CF6" alt="GitHub followers"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=romanyn36&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS"/>
+  <a href="https://github.com/romanyn36?tab=repositories">
+    <img src="https://img.shields.io/badge/REPOS-🔥-10B981?style=for-the-badge&labelColor=1a1b27"/>
+  </a>
 </p>
 
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=romanyn36&color=blue)
-
-<div align="center">
-  <img height="200" src="https://upload.wikimedia.org/wikipedia/en/e/e7/Steve_%28Minecraft%29.png?20220417165835"  />
-</div>
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7136E&center=true&vCenter=true&multiline=true&width=435&height=100&lines=hello+I'm+Romani;I'm+AI+Engnieer+)](https://git.io/typing-svg)
-
-</div>
-
-###
-
-<div align="center">
+<!-- Social Links with beautiful styling -->
+<p align="center">
   <a href="https://www.linkedin.com/in/romaninasrat/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/RomaniNasrat" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="romani.nasrat@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://t.me/romanyn36" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-  <a href="https://github.com/romanyn36" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="romanyn36" height="40" width="52" /></a>
-   <a href="https://kaggle.com/romanyn36" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="romanyn36" height="40" width="52" /></a>
-
-
-</div>
-
-###
-
-
-
-<!-- <a href="https://www.buymeacoffee.com/romanyn36" target="_blank" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center"/>
-  </a> -->
-  
-
-
-
-
-
-
-
-
-
-# :rocket: Technical Skills
-
-<div align="center">
-
-| **Category** | **Technologies** |
-|--------------|------------------|
-| **🤖 AI & ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) ![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) |
-| **🔬 ML Libraries** | ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-85C1E9?style=flat) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) |
-| **🤖 AI Models** | ![Google AI](https://img.shields.io/badge/Google_GenAI-4285F4?style=flat&logo=google&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic-000000?style=flat) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat) ![LlaMA](https://img.shields.io/badge/LlaMA-FF6B35?style=flat) ![RAG](https://img.shields.io/badge/RAG-FF4081?style=flat) |
-| **💻 Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) |
-| **🔧 Backend** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat) |
-| **🎨 Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) |
-| **☁️ Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=flat&logo=digitalocean&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) |
-| **🗄️ Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat) |
-| **🛠️ Tools & Others** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-239120?style=flat) |
-
-</div>
-
-# :dart: About Me 
-<p>
-Hi! I'm Romani, an <b>AI engineer and backend developer</b>. I graduated from the Faculty of Computers and Artificial Intelligence at Benha University.
-
-In the Artificial Intelligence department, I have developed and continue to enhance my skills, working with technologies such as machine learning (ML) models, deep learning models, transfer learning, generative models, and Hugging Face.
-
-Additionally, I am self-taught in web development, specializing in Python backend frameworks like Flask and Django. I have worked on numerous projects, leveraging my expertise to combine AI and create intelligent web applications. My work includes integrating AI features into websites, such as chatbots, image classification, speech recognition, articles clustering, and object detection and classification
-
-I'm a fast learner with a passion for programming, new technologies, chess, and problem-solving.
-I am proficient in multiple programming languages, including Java, C++, Python, Kotlin, and JavaScript. I have a strong understanding of Object-Oriented Programming (OOP) principles and SOLID design principles.
-
-<!-- downlaod my resume -->
-<p align="center">
-  <a href="https://github.com/romanyn36/romanyn36/blob/main/Software_Engineer_Romani_Nasrat.pdf" target="_blank" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Download%20Resume-FF5722.svg?style=flat-square&logo=google-drive" align="center"/>
-  </a>
-
-
-</p>
-
-
-
-
-
-
-
-# :sparkles: My GitHub Highlights
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=romanyn36&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=romanyn36&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  
-<a href=""><img src="https://streak-stats.demolab.com/?user=romanyn36" alt="GitHub Streak" /></a>
-</div>
-
-	
-
-
-
-
-
-
-
-
-<!-- ## 📊 Leetcode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/romanyn36?theme=light&font=Marvel) -->
-
-
-
-
-
-# :email: Contact ##
-
-- don't hesitate to contact me if you have any questions or need help.
-- [E-mail](mailto:romani.nasrat@gmail.com) or via any of the following platforms:
-<p align="center">
- 
-<div align="center">
-  <a href="https://www.linkedin.com/in/romaninasrat/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/RomaniNasrat" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="mailto:romani.nasrat@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://t.me/romanyn36" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://github.com/romanyn36" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="romanyn36" height="40" width="52" /></a>
-   <a href="https://kaggle.com/romanyn36" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="romanyn36" height="40" width="52" /></a>
-
-
-</div>
-
-<!-- <a href="https://www.buymeacoffee.com/romanyn36" target="_blank" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center"/>
-  </a> -->
-  
+  <a href="https://github.com/romanyn36" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://kaggle.com/romanyn36" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
 </p>
 
-&#xa0;
+<br/>
 
-<img src="https://raw.githubusercontent.com/romanyn36/romanyn36/output/snake.svg" alt="Snake animation" />
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-#### Popular Projects
-<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-  
-<a href="https://github.com/romanyn36/Catch-The-AI">
+<br/>
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=romanyn36&repo=Catch-The-AI&theme=onedark"/>
-</a>    
-<a href="https://github.com/romanyn36/Django-react-e-commerce.git">
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=romanyn36&repo=Django-react-e-commerce&theme=onedark"/>
-</a>  
-</div>
-<hr style="width:70%; margin:0 auto; border:0; height:1px; background-image:linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));">
+<!-- About Me Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+  <span style="color: #8B5CF6;">About Me</span>
+</h2>
 
 <div align="center">
-  <p>© 2023 Romani Nasrat • All Rights Reserved</p>
-  <p>
-    <a href="https://github.com/romanyn36" title="GitHub">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="25"/>
-    </a>
-    <a href="https://www.linkedin.com/in/romaninasrat/" title="LinkedIn">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25"/>
-    </a>
-    <a href="mailto:romani.nasrat@gmail.com" title="Email me">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="25"/>
-    </a>
-  </p>
-  <a href="#top" title="Back to top">
-    <img src="https://img.shields.io/badge/Back_to_top-⬆️-blue?style=for-the-badge" alt="Back to top" height="30"/>
+  <table>
+    <tr>
+      <td>
+        <img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding gif"/>
+      </td>
+      <td width="600">
+        <blockquote>
+          <p><strong>🎯 AI Engineer & Backend Developer</strong> building intelligent systems powered by Large Language Models and autonomous agents.</p>
+          
+<p>🎓 Graduated from <strong>Faculty of Computers and Artificial Intelligence</strong> at Benha University, specializing in advanced AI, machine learning, and deep learning.</p>
+          
+<p>🤖 I specialize in <strong>LLMs, AI agents, RAG pipelines, vector databases</strong>, and generative AI using frameworks like <em>LangChain, CrewAI, Transformers, PyTorch, Hugging Face</em>.</p>
+          
+<p>⚡ Building scalable backend systems with <strong>Django, FastAPI, and Node.js</strong>, integrating AI features into production-ready applications.</p>
+          
+<p>🎻 <em>Fun fact:</em> I play the <strong>violin</strong>, love <strong>Minecraft</strong> and <strong>chess</strong>, and I'm always exploring new technologies!</p>
+        </blockquote>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1u2Al2-oo-FZqQClTaP1ztQ0WE0sTpiSk/view" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Download_Resume-8B5CF6?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
+  </a>
+</p>
+
+<br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- Technical Skills Section -->
+<h2 align="center">
+  🚀 <span style="color: #06B6D4;">Technical Skills</span>
+</h2>
+
+<div align="center">
+
+<!-- AI & LLM Expertise - TOP PRIORITY -->
+<h3>🤖 AI & LLM Expertise</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anthropic-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LlaMA-FF6B35?style=for-the-badge"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/RAG_Pipelines-FF4081?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CrewAI-00D4AA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+</p>
+
+<br/>
+
+<!-- Core Tech Stack Grid -->
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+<br><b>Python</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="48" height="48" />
+<br><b>PyTorch</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="48" height="48" />
+<br><b>TensorFlow</b>
+</td>
+<td align="center" width="96">
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="48" height="48" />
+<br><b>HuggingFace</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=django" alt="Django" width="48" height="48" />
+<br><b>Django</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="48" height="48" />
+<br><b>FastAPI</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48" />
+<br><b>Docker</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="48" height="48" />
+<br><b>AWS</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="48" height="48" />
+<br><b>GCP</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="48" height="48" />
+<br><b>Flask</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />
+<br><b>Node.js</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" />
+<br><b>PostgreSQL</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
+<br><b>MongoDB</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="48" height="48" />
+<br><b>Redis</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="48" height="48" />
+<br><b>Kubernetes</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
+<br><b>Git</b>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Other Skills -->
+<h3>💻 Other Technologies</h3>
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+</div>
+
+<br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- GitHub Stats Section -->
+<h2 align="center">
+  📊 <span style="color: #10B981;">GitHub Statistics</span>
+</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=romanyn36&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&border_radius=15&order=1" height="160" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=romanyn36&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&border_radius=15&order=2" height="160" alt="languages graph"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/romanyn36">
+    <img src="https://streak-stats.demolab.com/?user=romanyn36&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak"/>
   </a>
 </div>
 
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- Contact Section -->
+<h2 align="center">
+  📬 <span style="color: #8B5CF6;">Let's Connect!</span>
+</h2>
+
+<p align="center">
+  <em>Don't hesitate to reach out if you have any questions or exciting projects to discuss!</em>
 </p>
 
-<a href="#top">Back to top</a>
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/romaninasrat/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/RomaniNasrat" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35"/>
+  </a>
+  &nbsp;
+  <a href="mailto:romani.nasrat@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+  </a>
+  &nbsp;
+  <a href="https://t.me/romanyn36" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="35"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/romanyn36" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/>
+  </a>
+  &nbsp;
+  <a href="https://kaggle.com/romanyn36" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="35"/>
+  </a>
+</div>
+
+<br/>
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/romanyn36/romanyn36/output/snake.svg" alt="Snake animation" width="100%"/>
+</div>
+
+<br/>
+
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:06B6D4,100:8B5CF6&height=120&section=footer"/>
+</p>
+
+<!-- Back to Top -->
+<p align="center">
+  <a href="#top" title="Back to top">
+    <img src="https://img.shields.io/badge/⬆️_Back_to_Top-8B5CF6?style=for-the-badge" alt="Back to top"/>
+  </a>
+</p>
