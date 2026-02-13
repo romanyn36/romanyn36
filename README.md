@@ -58,33 +58,24 @@
   <span style="color: #8B5CF6;">About Me</span>
 </h2>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding gif"/>
-      </td>
-      <td width="600">
-        <blockquote>
-          <p><strong>🎯 AI Engineer & Backend Developer</strong> building intelligent systems powered by Large Language Models and autonomous agents.</p>
-          
+<div align="left">
+  <blockquote>
+    <p><strong>🎯 AI Engineer & Backend Developer</strong> building intelligent systems powered by Large Language Models and autonomous agents.</p>
+    
 <p>🎓 Graduated from <strong>Faculty of Computers and Artificial Intelligence</strong> at Benha University, specializing in advanced AI, machine learning, and deep learning.</p>
-          
+    
 <p>🤖 I specialize in <strong>LLMs, AI agents, RAG pipelines, vector databases</strong>, and generative AI using frameworks like <em>LangChain, CrewAI, Transformers, PyTorch, Hugging Face</em>.</p>
-          
+    
 <p>⚡ Building scalable backend systems with <strong>Django, FastAPI, and Node.js</strong>, integrating AI features into production-ready applications.</p>
-          
+    
 <p>🎻 <em>Fun fact:</em> I play the <strong>violin</strong>, love <strong>Minecraft</strong> and <strong>chess</strong>, and I'm always exploring new technologies!</p>
-        </blockquote>
-      </td>
-    </tr>
-  </table>
+  </blockquote>
 </div>
 
 <br/>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1u2Al2-oo-FZqQClTaP1ztQ0WE0sTpiSk/view" target="_blank">
+  <a href="https://romaninasrat.com/" target="_blank">
     <img src="https://img.shields.io/badge/📄_Download_Resume-8B5CF6?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
   </a>
 </p>
