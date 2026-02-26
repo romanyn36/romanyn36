@@ -1,6 +1,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:06B6D4,100:10B981&height=80&section=header"/>
 </p>
+<!-- Profile badges -->
+
+![Profile views](https://komarev.com/ghpvc/?username=romanyn36&style=flat-square)
+![Followers](https://img.shields.io/github/followers/romanyn36?style=social)
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&height=35&lines=%F0%9F%91%8B+Hello%2C+I'm+Romani!" alt="Typing SVG" />
   <br/>
@@ -12,38 +17,33 @@
 
 <br/>
 
-<!-- Profile badges -->
-<p align="center">
-  <a href="https://github.com/romanyn36">
-    <img src="https://img.shields.io/github/followers/romanyn36?label=Followers&style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27&color=8B5CF6" alt="GitHub followers"/>
+<!-- Social Links -->
+<div align="center">
+  <a href="https://github.com/romanyn36" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="romanyn36" height="40" width="52" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=romanyn36&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS"/>
-  <a href="https://github.com/romanyn36?tab=repositories">
-    <img src="https://img.shields.io/badge/REPOS-🔥-10B981?style=for-the-badge&labelColor=1a1b27"/>
+  <a href="https://www.linkedin.com/in/romaninasrat/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-</p>
-
-<!-- Social Links with beautiful styling -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/romaninasrat/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://x.com/RomaniNasrat" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://x.com/RomaniNasrat" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://t.me/romanyn36" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
-  <a href="mailto:romani.nasrat@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="https://www.youtube.com/@romani.nasrat" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="https://t.me/romanyn36" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  <a href="https://codeforces.com/profile/_Romany" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="_Romany" height="40" width="52" />
   </a>
-  <a href="https://github.com/romanyn36" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://discord.gg/romanyn36" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="romanyn36" height="40" width="52" />
   </a>
-  <a href="https://kaggle.com/romanyn36" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  <a href="https://kaggle.com/romanyn36" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="romanyn36" height="40" width="52" />
   </a>
-</p>
+</div>
 
 <br/>
 
@@ -58,19 +58,16 @@
   <span style="color: #8B5CF6;">About Me</span>
 </h2>
 
-<div align="left">
-  <blockquote>
-    <p><strong>🎯 AI Engineer & Backend Developer</strong> building intelligent systems powered by Large Language Models and autonomous agents.</p>
-    
-<p>🎓 Graduated from <strong>Faculty of Computers and Artificial Intelligence</strong> at Benha University, specializing in advanced AI, machine learning, and deep learning.</p>
-    
-<p>🤖 I specialize in <strong>LLMs, AI agents, RAG pipelines, vector databases</strong>, and generative AI using frameworks like <em>LangChain, CrewAI, Transformers, PyTorch, Hugging Face</em>.</p>
-    
-<p>⚡ Building scalable backend systems with <strong>Django, FastAPI, and Node.js</strong>, integrating AI features into production-ready applications.</p>
-    
-<p>🎻 <em>Fun fact:</em> I play the <strong>violin</strong>, love <strong>Minecraft</strong> and <strong>chess</strong>, and I'm always exploring new technologies!</p>
-  </blockquote>
-</div>
+Hi! I'm **Romani** — an AI Engineer & Backend Developer with over **2 years of experience** building intelligent systems driven by large language models, chatbots, agents and RAG pipelines. I hold a B.Sc. in Computers and AI from Benha University and focus on deploying models via cloud infrastructure.
+
+- 🤖 AI & backend software development
+- 💬 Chatbots, autonomous agents, and RAG solutions
+- 📈 Building and scaling ML-powered applications
+- ☁️ Model deployment, cloud platforms, and GPU hosting
+- 🌍 Freelance experience with international clients
+- 🧠 Problem-solving mindset and continuous learning
+- 🎻 Outside work: violin, Minecraft, chess, and exploring new tech
+
 
 <br/>
 
@@ -242,34 +239,42 @@
 </h2>
 
 <p align="center">
-  <em>Don't hesitate to reach out if you have any questions or exciting projects to discuss!</em>
+  <em>Don't hesitate to reach out if you have any questions or exciting projects to discuss!, you can contact me via email or through social media:</em>
+
+- <a href="mailto:contact@romaninasrat.com">contact@romaninasrat.com</a>
+- <a href="https://romaninasrat.com/" target="_blank">My Website</a>
+- Social media: 
 </p>
 
 <br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/romaninasrat/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+  <a href="https://github.com/romanyn36" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="romanyn36" height="40" width="52" />
   </a>
-  &nbsp;
-  <a href="https://x.com/RomaniNasrat" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35"/>
+  <a href="https://www.linkedin.com/in/romaninasrat/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  &nbsp;
-  <a href="mailto:romani.nasrat@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+  <a href="https://x.com/RomaniNasrat" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  &nbsp;
-  <a href="https://t.me/romanyn36" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="35"/>
+  <a href="mailto:contact@romaninasrat.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  &nbsp;
-  <a href="https://github.com/romanyn36" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/>
+  <a href="https://t.me/romanyn36" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
-  &nbsp;
-  <a href="https://kaggle.com/romanyn36" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="35"/>
+  <a href="https://www.youtube.com/@romani.nasrat" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://codeforces.com/profile/_Romany" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="_Romany" height="40" width="52" />
+  </a>
+  <a href="https://discord.gg/romanyn36" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="romanyn36" height="40" width="52" />
+  </a>
+  <a href="https://kaggle.com/romanyn36" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="romanyn36" height="40" width="52" />
   </a>
 </div>
 
